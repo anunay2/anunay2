@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @anunay2.I am  Banglore-based Backend engineer. 
-- 👀 I’m interested in anything under the sun.... fitness, tech, sports, cinema ..to name a few.
+- 👋 Hi, I’m @anunay2.I am remote Backend engineer working at fintech start up , Tide. 
+- 👀 Outside of work , I am into martial arts and fitness.
 - 🌱 I’m currently learning to design scalable systems.
 - 💞️ I’m looking to collaborate on any project solving realworld problems.
 - 📫 How to reach me ? on linked-in (https://www.linkedin.com/in/anunay-kumar-16b7b9152/)
